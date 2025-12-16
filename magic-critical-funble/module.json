@@ -1,0 +1,42 @@
+{
+  "id": "magic-critical-funble",
+  "title": "magic critical funble",
+  "version": "1.1.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "authors": [
+    {
+      "name": "Rafael Sena",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "critical-fumble-tables",
+      "label": "critical fumble tables",
+      "path": "packs/critical-fumble-tables",
+      "type": "RollTable",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "critical-fumble-macros",
+      "label": "critical fumble macros",
+      "path": "packs/critical-fumble-macros",
+      "type": "Macro",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "description": "",
+  "flags": {}
+}
