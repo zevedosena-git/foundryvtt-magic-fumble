@@ -4,7 +4,7 @@
   "version": "1.1.0",
   "url": "https://github.com/zevedosena-git/foundryvtt-magic-fumble",
   "manifest": "https://raw.githubusercontent.com/zevedosena-git/foundryvtt-magic-fumble/main/magic-critical-funble/module.json",
-  "download": "https://github.com/zevedosena-git/foundryvtt-magic-fumble/releases/download/v1.0.0/magic-critical-fumble.zip"
+  "download": "https://github.com/zevedosena-git/foundryvtt-magic-fumble/archive/refs/tags/release.zip"
   "compatibility": {
     "minimum": "12",
     "verified": "13",
